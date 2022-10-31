@@ -7,7 +7,7 @@
 #include <windows.h>
 void userdraw () {
     glBegin (GL_POINTS);
-    glColor3f(0.0f, 1.0f, 0.0f);
+    glColor4f(1.0f, 1.0f, 1.0f, 0.0f);//white
     glVertex2i (150,0);
 
     glColor3f(0.0f, 0.0f, 1.0f);
