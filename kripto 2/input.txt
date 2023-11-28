@@ -1,0 +1,3 @@
+Tentu, berikut adalah contoh program sederhana menggunakan Python 
+untuk mengenkripsi dan mendekripsi isi file menggunakan metode kunci simetris (contoh: Caesar Cipher). 
+Pastikan Anda menggunakan metode enkripsi yang lebih kuat untuk penggunaan yang sebenarnya.
